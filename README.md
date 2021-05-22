@@ -58,3 +58,9 @@ Meag2560 |      √       |             |            |
 ## Credits
 
 Written by Jiawei Zhang(Welcome to our [website](https://www.dfrobot.com/))
+  
+My notes: 
+To add esp8266 wifi module
+files/references tools/board manager/esp8266 
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
