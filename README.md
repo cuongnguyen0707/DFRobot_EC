@@ -64,3 +64,6 @@ To add esp8266 wifi module
 files/references tools/board manager/esp8266 
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+  
+Error to upload code to esp8266
+https://forum.arduino.cc/t/esp-8266-timed-out-waiting-for-packet-header/597634/44
