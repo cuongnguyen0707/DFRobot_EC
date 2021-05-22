@@ -60,8 +60,8 @@ Meag2560 |      √       |             |            |
 Written by Jiawei Zhang(Welcome to our [website](https://www.dfrobot.com/))
   
 My notes: 
-To add esp8266 wifi module
-files/references tools/board manager/esp8266 
+Follow intruction below to use wifi module
+https://robotdyn.com/uno-wifi-r3-atmega328p-esp8266-32mb-flash-usb-ttl-ch340g-micro-usb.html
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
   
